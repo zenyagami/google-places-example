@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Estimote</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="gps_permission_denied">This app need the GPS permission in order to work.</string>
+</resources>
